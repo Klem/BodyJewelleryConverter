@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TABS -->
+    <string name="hello">Hello World, BodyJewelleryConverterActivity!</string>
+    <string name="app_name">BodyJewelleryConverter</string>
+	<string name="jewellery_tab">Jewellery</string>
+	<string name="screw_tab">Screws</string>
+	<string name="hook_tab">Hooks</string>
+	
+	<!-- UNITS -->
+	<string name="unit_mm">%s Mm</string>
+	<string name="unit_ga">%s Ga</string>
+	
+	<string name="size_mm">%s Mm</string>
+	<string name="size_in">%s In</string>
+	
+	<!-- JEWELLERIES -->
+	
+	<string-array name="jewellery_types">
+		<item>Cbr</item>
+		<item>Barbell</item>
+		<item>Bananabell</item>    
+	</string-array>
+</resources>
